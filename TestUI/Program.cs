@@ -6,7 +6,7 @@ namespace TestUI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Графичекий интерфейс");
+            Console.WriteLine("Графичекий интерфейс. Проверка команды GitPull");
         }
     }
 }
